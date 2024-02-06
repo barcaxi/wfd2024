@@ -1,6 +1,6 @@
 # Angular Exercise 2 – Introduction
 
-> Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help.
+> Complete ALL the exercises in this section. Ask thomas.devine@atu.ie for help.
 
 ## Contents
 
