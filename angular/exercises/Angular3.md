@@ -37,9 +37,9 @@ View the component at [http://localhost:4200](http://localhost:4200)
 
     and modify the template `players.component.html` to render these players using interpolation and the `@for` command.  Display the players using `<li>` elements.
 
-1.  Modify the code above to display the player names within a number rdered list (`<ol>`).
+1.  Modify the code above to display the player names within a number ordered list (`<ol>`).
 
-1.  Finally, for now modify the `PlayersComponent` to render this table:
+1.  Finally, modify the `PlayersComponent` to render this table:
 
     ![playersJSON1.png](images/playersJSON2.png)
 
