@@ -1,4 +1,4 @@
-# Angular Exercise 3 – Introduction Continued
+# Angular Exercise 3 – Components, Interfaces & Services
 
 > Complete ALL the exercises in this section. Ask thomas.devine@lyit.ie for help.
 
